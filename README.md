@@ -30,5 +30,11 @@ The team configured the Raspberry Pi by installing Raspberry Pi OS and connectin
 
 Data visualization was achieved using HTTP, JavaScript, and Firebase Realtime Database, enabling dynamic webpage updates. The integration allowed for efficient collaboration between Mobile and Fixed platforms, with sensor data processed through Arduino, transmitted to the Raspberry Pi gateway, and visualized in real-time on the project website. This comprehensive system provided accurate monitoring of step counts, fall incidents, and GPS coordinates, enhancing the project's potential applications in real-world scenarios.
 
+Project 5 : ECG_Monitoring_Project
+This project introduces an ECG Monitoring System employing the Pan and Tompkins algorithm for R-peak detection and BPM computation. Integrated with a mobile app, users can conveniently monitor and store ECG recordings. Sponsored by Epsidy, a healthcare-focused startup renowned for its data-driven garment diagnosing heart disease in women and MRI-compatible tools for cardiovascular diseases. . This project leverages advanced tech, connecting an ECG sensor to Arduino for efficient data capture, utilizing MQTT for reliable data flow to Raspberry Pi. The Pi processes ECG data, identifying R peaks and calculating BPM using Neurokit2 for accurate irregularity detection. Real-time ECG data visualization and storage are achieved, with data accessible via an Android app and securely stored in MongoDB Atlas. The final report delves into project phases, including sensor integration, data processing, and visualization/storage implementation.
+
+
+
+
 
 
