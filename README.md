@@ -10,6 +10,10 @@ The game implementation involved drawing and moving the ball and paddles, restri
 
 The Simpletweet library in Processing enabled the tweet posting functionality, triggered when a player reached the winning score. This project showcased the integration of hardware (flex sensor and microcontroller) with software (Processing), providing an interactive gaming experience with real-time social media interaction upon victory.
 
+Project 2 : Tiva Microcontroller integration
+
+In this project, I learned fundamental concepts of connections and microcontrollers. The project involved connecting an LCD, understanding potentiometer functionality, establishing Bluetooth communication between the microcontroller and a computer, and working with a temperature and humidity sensor. This hands-on experience provided valuable insights into hardware connections and sensor interactions, enhancing participants' understanding of microcontroller applications and their practical implementation.
+
 Project 1 : Big data
 
 This project involves analyzing movie data from APIs and IMDb records using Apache Airflow, organized through a Directed Acyclic Graph (DAG). Two main analyses were conducted: computing yearly average ratings and recommending highly-rated movies (above 8) released after 2000. These analyses were performed using Spark SQL queries.
@@ -27,6 +31,4 @@ The team configured the Raspberry Pi by installing Raspberry Pi OS and connectin
 Data visualization was achieved using HTTP, JavaScript, and Firebase Realtime Database, enabling dynamic webpage updates. The integration allowed for efficient collaboration between Mobile and Fixed platforms, with sensor data processed through Arduino, transmitted to the Raspberry Pi gateway, and visualized in real-time on the project website. This comprehensive system provided accurate monitoring of step counts, fall incidents, and GPS coordinates, enhancing the project's potential applications in real-world scenarios.
 
 
-Project 4 : Tiva Microcontroller integration
 
-In this project, I learned fundamental concepts of connections and microcontrollers. The project involved connecting an LCD, understanding potentiometer functionality, establishing Bluetooth communication between the microcontroller and a computer, and working with a temperature and humidity sensor. This hands-on experience provided valuable insights into hardware connections and sensor interactions, enhancing participants' understanding of microcontroller applications and their practical implementation.
